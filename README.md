@@ -1,9 +1,9 @@
 # Basic Algorithms
 
-This repository deals with some basics algorithms in 4 different languages till now. The main idea is to help beginners with all the algorithms in one place.
+This repository deals with some basics algorithms covered in 4 different. The main idea is to help beginners with all the algorithms in one place.
 
 ## Start Contributing
-1. Fork this repository by clicking on the fork button on the top
+1. Fork this repository by clicking on the fork button on the top.
 2. Clone this repository
     ```sh
     git clone https://github.com/girlscriptpatiala/basic-algorithms.git
@@ -13,7 +13,7 @@ This repository deals with some basics algorithms in 4 different languages till 
     ```sh
     git add <file name>
     ```
-5. Commit your changes in your forked repository
+5. Commit your changes in your forked repository.
     ```sh
     git commit -m <"your message">      #Don't forget to remove the angular braces(<>)
     ```
@@ -23,6 +23,6 @@ This repository deals with some basics algorithms in 4 different languages till 
     ```
 7. Open a pull request from Github.
 
-We will review your contribution and will merge if no conflict occurs. :)
+You can add algorithms you find missing in whatever language you're comfortable with. We will review your contribution and will merge if no conflict occurs.
 
 Happy contributing! :)
