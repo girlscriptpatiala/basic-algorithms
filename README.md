@@ -9,9 +9,9 @@ This repository deals with some basics algorithms in 4 different languages till 
     git clone https://github.com/girlscriptpatiala/basic-algorithms.git
     ```
 3. Make the changes/add your file in the folder of your choice.
-4. Add your changes in your forked repository
+4. Add your changes in your forked repository.
     ```sh
-    git add .
+    git add <file name>
     ```
 5. Commit your changes in your forked repository
     ```sh
@@ -22,3 +22,7 @@ This repository deals with some basics algorithms in 4 different languages till 
    git push origin master
     ```
 7. Open a pull request from Github.
+
+We will review your contribution and will merge if no conflict occurs. :)
+
+Happy contributing! :)
