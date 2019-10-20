@@ -15,7 +15,7 @@ This repository deals with some basics algorithms in 4 different languages till 
     ```
 5. Commit your changes in your forked repository
     ```sh
-    git commit -m <"your message'>
+    git commit -m <"your message">      #Don't forget to remove the angular braces(<>)
     ```
 6. Create a pull request for your changes.
    ```sh
