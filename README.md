@@ -8,7 +8,7 @@ This repository deals with some basics algorithms covered in 4 different. The ma
     ```sh
     git clone https://github.com/girlscriptpatiala/basic-algorithms.git
     ```
-3. Make the changes/add your file in the folder of your choice.
+3. Make the changes/add your file in the folder related to the language your are using.
 4. Add your changes in your forked repository.
     ```sh
     git add <file name>
@@ -25,4 +25,4 @@ This repository deals with some basics algorithms covered in 4 different. The ma
 
 You can add algorithms you find missing in whatever language you're comfortable with. We will review your contribution and will merge if no conflict occurs.
 
-Happy contributing! :)
+Keep contributing! :)
