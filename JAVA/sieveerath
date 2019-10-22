@@ -3,7 +3,7 @@
 
 class SieveOfEratosthenes 
 { 
-	void sieveOfEratosthenes(int n) 
+	public void sieveOfEratosthenes(int n) 
 	{ 
 		// Create a boolean array "prime[0..n]" and initialize 
 		// all entries it as true. A value in prime[i] will 
@@ -15,10 +15,10 @@ class SieveOfEratosthenes
 		for(int p = 2; p*p <=n; p++) 
 		{ 
 			// If prime[p] is not changed, then it is a prime 
-			if(prime[p] == true) 
+			if(prime[p]) 
 			{ 
 				// Update all multiples of p 
-				for(int i = p*p; i <= n; i += p) 
+				for(int i = p*p; i <= n; i =i+2*p) 
 					prime[i] = false; 
 			} 
 		} 
