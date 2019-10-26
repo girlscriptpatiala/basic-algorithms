@@ -1,4 +1,4 @@
-//Program to print floyd's triangle
+//Program to print floyd's triangle using numbers
 #include <stdio.h>
 void main()
 {
