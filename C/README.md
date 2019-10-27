@@ -1,5 +1,21 @@
 # C Language
 
-This folder contains basic algorithms in C language.
+#include<stdio.h>
 
-You can contribute by adding any algorithms you think is missing.
+void main()
+{
+ float a,b,t;
+ printf("\nSwapping two numbers using third variable:->");
+ printf("\nEnter first number:");
+ scanf("%f",&a);
+ printf("\nEnter second number:");
+ scanf("%f",&b);
+
+ t=a;
+ a=b;
+ b=t;
+
+ printf("\nAfter swapping...");
+ printf("\n\nFirst number:%f",a);
+ printf("\nSecond number:%f",b);
+}
