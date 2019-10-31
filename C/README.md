@@ -1,5 +1,21 @@
 # C Language
+//This program swaps two numbers with the help of third variable.
+#include<stdio.h>
 
-This folder contains basic algorithms in C language.
+void main()
+{
+ float a,b,t;
+ printf("\nSwapping two numbers using third variable:->");
+ printf("\nEnter first number:");
+ scanf("%f",&a);
+ printf("\nEnter second number:");
+ scanf("%f",&b);
 
-You can contribute by adding any algorithms you think is missing.
+ t=a;
+ a=b;
+ b=t;
+
+ printf("\nAfter swapping...");
+ printf("\n\nFirst number:%f",a);
+ printf("\nSecond number:%f",b);
+}
