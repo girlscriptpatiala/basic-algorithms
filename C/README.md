@@ -1,5 +1,5 @@
 # C Language
-
+//This program swaps two numbers with the help of third variable.
 #include<stdio.h>
 
 void main()
