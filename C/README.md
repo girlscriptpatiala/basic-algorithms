@@ -1,5 +1,16 @@
-# C Language
 
-This folder contains basic algorithms in C language.
-
-You can contribute by adding any algorithms you think is missing.
+#include<stdio.h>
+ 
+int main()
+{
+   int a, b, c;
+   
+   printf("Enter two numbers to add\n");
+   scanf("%d%d", &a, &b);
+   
+   c = a + b;
+   
+   printf("Sum of the numbers = %d\n", c);
+   
+   return 0;
+}
